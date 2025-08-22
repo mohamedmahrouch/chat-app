@@ -45,14 +45,10 @@ Cette application est un système de chat client-serveur développé en Python a
 
 - `client_finale.py` : Application cliente avec interface graphique
 - `serveur_final.py` : Serveur de chat
-- `images.png` : Ressources graphiques
+- `images.png` : image
 
 ## Sécurité
 
 - Mots de passe protégés
 - Communication client-serveur sécurisée
 - Gestion des sessions utilisateurs
-
-## Auteur
-
-Mohamed Mahrouch
